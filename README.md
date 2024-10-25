@@ -2,4 +2,10 @@
 
 Welcome to the UChicago CDS tutorial page. You can find tutorials for a multitude of open source tools. This repository is updated periodically with more tutorials.
 
-## Scalar
+## Scalar I
+
+## Scalar II
+
+## StorymapJS
+
+## TimelineJS
