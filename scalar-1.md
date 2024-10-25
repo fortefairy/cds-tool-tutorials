@@ -1,7 +1,7 @@
 # Scalar I
-*created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis*
+This tutorial was adapted from a previous tutorial created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis the Barnard College Digital Humanities Center
 
-*updated September 28, 2020 by Ana Lam*
+*By Taylor Faires*
 
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 
@@ -17,7 +17,8 @@ Scalar is a free, open-source tool for digital authoring and publishing that "en
 * Multi-linear narratives (think choose-your-own-adventure)
 
 ### This tool is not great for:
-* Storing lots of images or large images (if your project is object-centered, try [Omeka](https://www.omeka.net/) or [Wax](https://minicomp.github.io/wax/) instead)
+* Storing lots of images or large images. If you are affiliated with the University of Chicago, consider [OCHRE](https://voices.uchicago.edu/ochre/) for your digital collections
+* Other digital collections options include: [Omeka](https://www.omeka.net/), [Wax](https://minicomp.github.io/wax/), or [CollectionBuilder](https://collectionbuilder.github.io/)
 
 ## Materials:
 - Internet access
@@ -25,7 +26,7 @@ Scalar is a free, open-source tool for digital authoring and publishing that "en
 - Access to your email.
 - An account at [scalar.usc.edu](https://scalar.me/anvc/scalar/) or your own Scalar install.
 
-# Guided Practice
+# Tutorial
 ## Step 1: Getting Started
 ### Sign Up
 
@@ -33,10 +34,11 @@ To create a Scalar account, follow these instructions:
 1. Make your way to the [Scalar Registration Page](https://scalar.usc.edu/works/system/register). 
 2. Enter in the relevant information such as your email and name.
 3. Use Registration key:
-4. Once you've regeistered, you should be redirected to your dashboard, if you are not already on the "My Account Tab," navigate to that tab.
-5. There should be an option to create a new book at the bottom of the page which should look like the image below:
+    * If you do not have a registration key, you may request on using [this form](https://scalar.usc.edu/register/scalar-regkey)
+5. Once you've registered, you should be redirected to your dashboard, if you are not already on the "My Account Tab," navigate to that tab.
+6. There should be an option to create a new book at the bottom of the page which should look like the image below:
 ![Make new Scalar book](/images/scalar/makenewbook.png)
-6. Once you've created the new book you should be able to see it under "My Books." Click on your book title to navigate to your book. Now it's time to add content!
+7. Once you've created the new book you should be able to see it under "My Books." Click on your book title to navigate to your book. Now it's time to add content!
 
 ### Front-end vs. back-end
 
