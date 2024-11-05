@@ -2,7 +2,7 @@
 This tutorial was adapted from a previous tutorial created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis the Barnard College Digital Humanities Center
 
 *By Taylor Faires*
-
+[CREATIVE COMMONS IMAGE]
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
@@ -56,16 +56,19 @@ Scalar requires you to add media independent of adding the media to a page. This
 
 #### Uploading Media
 
-Sometimes it's impossible or impractical to link to media, particularly if that media is at risk of disappearing. In those cases, use Scalar's upload feature. 
+If you want to include media and there is no stable link where the image is stored, you can upload media directly from your computer. 
 
 1. To upload media from the front-end of your site, hover over the upload button on the right hand side of your book.Then hover over "Files and URLs." Finally, select "Upload media files."
 <img align="right" width="40%" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
-2. You'll be redirected to a page where you can upload a file from your computer and input any metadata. The max  file size for uploading is 2MB.
+2. You'll be redirected to a page where you can upload a file from your computer. The max  file size for uploading is 2MB.
+3. Make sure to add relevant metadata to your image such the author, date, and source. Scalar offers many different metadata fields, but the featured fields offer specific functionality on the Scalar site.
 
 #### Linking Media
 While you certainly can upload media into Scalar, Scalar was built on the ethos that media should remain with its creators and trusted partners. Once you download an image from the web, you divorce it from its context and often its metadata. Every time we upload another copy of O'Keefe's Black Iris to the web, we add to the carbon footprint of the server that's storing it (and backing it up). 
 
-To link to media files hosted elsewhere on the web, follow the instructions above, but select "Link to media files." You will be redirected to a similar page asking for a url. 
+To link to media files hosted elsewhere on the web, follow the instructions above, but select "Link to media files." You will be redirected to a similar page asking for a url.
+
+For users who may have images and documents stored in OCHRE, please note that while it is possible to link to OCHRE media files, the metadata will not populate in Scalar.
 
 #### Linking Media from Affiliated Archives
 Scalar has built-in tools for importing metadata and links to media files from affiliates and from some publicly available sources (e.g. Youtube). 
