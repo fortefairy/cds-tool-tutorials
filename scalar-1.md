@@ -118,10 +118,10 @@ Now that you've added some media, you can create a page to hold that media! To c
 
 ### Embedding Media and Annotations
 1. While on a page that you'd like to add media to, select the pencil icon to edit the page.
-2.  Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. <img align="right" width="10%" src="/images/scalar/playbuttons.png" alt="Play buttons">
+2. Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. <img align="right" width="10%" src="/images/scalar/playbuttons.png" alt="Play buttons">
 3. Click on the play button with lines around it and select media from the window that pops up. 
-4.  You can then adjust the media size, align properties, and caption. You also can select whether the image is in a new line or if you want text to wrap around it. If your media has annotations, you can choose which annotations to include in this embedded media.
-5.  Once you've done this, click "continue." Don't worry if it looks odd on the editing page screen or you see grey boxes. <img align="right" width="40%" src="/images/scalar/embeddedmedia.png" alt="Screen grab of embedding media editor">
+4. You can then adjust the media size, align properties, and caption. You also can select whether the image is in a new line or if you want text to wrap around it. If your media has annotations, you can choose which annotations to include in this embedded media.
+5. Once you've done this, click "continue." Don't worry if it looks odd on the editing page screen or you see grey boxes. <img align="right" width="40%" src="/images/scalar/embeddedmedia.png" alt="Screen grab of embedding media editor">
 6. Click "Save and View at the bottom of the page. Take a look at your new page!
 
 As you will see, this feature plops your media file exactly where you placed it on the page. To create a more dynamic linking of text and media:
@@ -143,7 +143,7 @@ Scalar has a “flat ontology” which means that every kind of thing in Scalar 
   <i>Diagram by Erik Loyer, courtesy of Scalar team.</i>
 </p>
 
-This has some radical implications for structure and for creating relationships in Scalar. Think about how hashtags (text) work to connect and collect conversations. Now imagine an image doing that work.
+This has some radical implications for structure and for creating relationships in Scalar. Think about how hashtags work to connect and collect conversations. Now imagine an image doing that work.
 
 Because of this flat ontology, images or videos can function as tags, and videos can be tagged with other videos...or images...or other tags. 
 
@@ -295,5 +295,5 @@ If you would like to hide individual pages, select the "Pages" tab on your dashb
 - [Styling a Page](https://scalar.usc.edu/works/guide2/styling-a-page?path=editing-pages)
   - [Book Splash Layout](https://scalar.usc.edu/works/guide2/book-splash-layout?path=selecting-a-pages-default-view)
 
-## Barnard resources:
-- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) for additional help! 
+## University of Chicago resources:
+- UChicago faculty, staff, and students are free to reach out to the [Center for Digital Scholarship](https://www.lib.uchicago.edu/research/scholar/) for additional help! 
