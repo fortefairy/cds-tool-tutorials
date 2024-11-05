@@ -58,8 +58,7 @@ Scalar requires you to add media independent of adding the media to a page. This
 
 If you want to include media and there is no stable link where the image is stored, you can upload media directly from your computer. 
 
-1. To upload media from the front-end of your site, hover over the upload button on the right hand side of your book.Then hover over "Files and URLs." Finally, select "Upload media files."
-<img align="right" width="40%" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
+1. To upload media from the front-end of your site, hover over the upload button on the right hand side of your book.Then hover over "Files and URLs." Finally, select "Upload media files." <img align="right" width="40%" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
 2. You'll be redirected to a page where you can upload a file from your computer. The max  file size for uploading is 2MB.
 3. Make sure to add relevant metadata to your image such the author, date, and source. Scalar offers many different metadata fields, but the featured fields offer specific functionality on the Scalar site.
 
