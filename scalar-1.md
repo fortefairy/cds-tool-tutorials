@@ -84,7 +84,7 @@ Because Scalar is not keeping a copy of the media file on its servers, if it is 
 
 Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
 
-<img align="right" width="40%" src="/images/scalar/annotatemedia.png" alt="Screen grab of Scalar's annotation tool">
+<img align="right" width="40%" src="/images/scalar/annotatemedia.PNG" alt="Screen grab of Scalar's annotation tool">
 
 On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
 
