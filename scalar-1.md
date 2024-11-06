@@ -212,7 +212,7 @@ BONUS: Use Scalar's [visualization tools](https://scalar.usc.edu/works/guide2/pa
 ### Changing the title
 
 To change your title:
-1. Go to your dashboard (the wrench icon).<img src="/images/scalar/wrench.png" width="5%" alt="wrench icon"> 
+1. Go to your dashboard (the wrench icon) :wrench:.
 2. Click on the "Book properties" tab.
 3. Edit your title in the title field.
 4. You can also add a subtitle and a description. 
@@ -222,7 +222,7 @@ To change your title:
 Now that you have a title, we can make that book cover. To make a snazzy book cover, you'll need a snazzy image or video. If you need to upload one, go ahead and do that now. Then: 
 
 1. If you're on the dashboard, elect "back to book".  <img align="right" width="40%" src="/images/scalar/bookcover.png" alt="Screen grab of Scalar layout selection">
-2. Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the <img src="/images/scalar/pencil.png" width="5%" alt="pencil icon"> button above to add some." Click the pencil icon to edit your home page.
+2. Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the pencil button :pencil2: above to add some." Click the pencil icon to edit your home page.
 3. You may need to add a title as this field cannot be blank. Please note, however, that the "book splash" layout uses your book title not the page title, so anything in this field will not be displayed. 
 4. Navigate to the "layout" tab at the bottom of the page. In the drop-down menu select "Book Splash."
 5. A Book Splash will create a blank and pretty boring grey cover if you don't add an image to be a part of the cover. To do that, click the "styling" tab and then click "key image."
