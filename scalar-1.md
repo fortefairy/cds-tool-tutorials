@@ -45,7 +45,7 @@ Many tasks in Scalar are accomplished through Scalar's "front-end" or "public-fa
 
 Front-end | Back-end
 --------- | --------
-![front-end](/images/scalar/front-end.png) | ![back-end](/images/scalar/back-end.png)
+![front-end](/images/scalar/front-end.PNG) | ![back-end](/images/scalar/back-end.PNG)
 *The front-end of a Scalar site* | *The back-end or dashboard of a Scalar site*
 
 ## Step 2: Adding Content
