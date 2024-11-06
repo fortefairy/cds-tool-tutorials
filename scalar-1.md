@@ -81,8 +81,7 @@ Sometimes Scalar encounters difficulty accessing the affiliated and unaffiliated
 Because Scalar is not keeping a copy of the media file on its servers, if it is taken down by the source, the metadata will continue to be visible in your Scalar book, but the media will not.
 
 #### Annotating Media
-
-<img align="right" width="40%" src="/images/scalar/annotatemedia.PNG" alt="Screen grab of Scalar's annotation tool">
+<img align="right" width="50%" src="/images/scalar/annotatemedia.PNG" alt="Screen grab of Scalar's annotation tool">
 Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
 
 On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
@@ -115,7 +114,8 @@ Now that you've added some media, you can create a page to hold that media! To c
 4. Create at least three pages.
 
 ### Embedding Media and Annotations
-1. While on a page that you'd like to add media to, select the pencil icon to edit the page.<img align="right" width="40%" src="/images/scalar/embeddedmedia.PNG" alt="Screen grab of embedding media editor">
+<img align="right" width="50%" src="/images/scalar/embeddedmedia.PNG" alt="Screen grab of embedding media editor">
+1. While on a page that you'd like to add media to, select the pencil icon to edit the page.
 2. Above the text box, there are a number of blue icons. The two blue icons with play buttons (:arrow_forward:) are for inserting media links.
 3. Click on the play button with lines around it and select media from the window that pops up.
 4. You can then adjust the media size, align properties, and caption. You also can select whether the image is in a new line or if you want text to wrap around it. If your media has annotations, you can choose which annotations to include in this embedded media.
