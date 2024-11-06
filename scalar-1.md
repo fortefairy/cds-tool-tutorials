@@ -204,7 +204,7 @@ BONUS: Use Scalar's [visualization tools](https://scalar.usc.edu/works/guide2/pa
 ## Step 5. Make it a book!
 
 <p align="center">
-  <img src="/images/scalar/booksplash.gif" alt="A screen record of a Scalar book">
+  <img src="/images/scalar/booksplash.PNG" alt="A screenshot of a Scalar book">
 </p>
 
  You have content now, but how do you make it look like a book? Above is an example of the Book Splash layout which will give your book a nice cover. 
