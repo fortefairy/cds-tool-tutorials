@@ -81,7 +81,7 @@ Sometimes Scalar encounters difficulty accessing the affiliated and unaffiliated
 Because Scalar is not keeping a copy of the media file on its servers, if it is taken down by the source, the metadata will continue to be visible in your Scalar book, but the media will not.
 
 #### Annotating Media
-<img align="right" width="50%" src="/images/scalar/annotatemedia.PNG" alt="Screen grab of Scalar's annotation tool">
+<img align="right" width="30%" src="/images/scalar/annotatemedia.PNG" alt="Screen grab of Scalar's annotation tool">
 Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
 
 On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
