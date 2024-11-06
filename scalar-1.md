@@ -114,7 +114,7 @@ Now that you've added some media, you can create a page to hold that media! To c
 4. Create at least three pages.
 
 ### Embedding Media and Annotations
-<img align="right" width="50%" src="/images/scalar/embeddedmedia.PNG" alt="Screen grab of embedding media editor">
+<img align="right" width="40%" src="/images/scalar/embeddedmedia.PNG" alt="Screen grab of embedding media editor">
 1. While on a page that you'd like to add media to, select the pencil icon to edit the page.
 2. Above the text box, there are a number of blue icons. The two blue icons with play buttons (:arrow_forward:) are for inserting media links.
 3. Click on the play button with lines around it and select media from the window that pops up.
