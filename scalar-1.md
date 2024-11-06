@@ -222,7 +222,7 @@ To change your title:
 Now that you have a title, we can make that book cover. To make a snazzy book cover, you'll need a snazzy image or video. If you need to upload one, go ahead and do that now. Then: 
 
 1. If you're on the dashboard, elect "back to book".  <img align="right" width="40%" src="/images/scalar/bookcover.png" alt="Screen grab of Scalar layout selection">
-2. Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the pencil button :pencil2: above to add some." Click the pencil icon to edit your home page.
+2. Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the pencil button :pencil2: to edit your home page.
 3. You may need to add a title as this field cannot be blank. Please note, however, that the "book splash" layout uses your book title not the page title, so anything in this field will not be displayed. 
 4. Navigate to the "layout" tab at the bottom of the page. In the drop-down menu select "Book Splash."
 5. A Book Splash will create a blank and pretty boring grey cover if you don't add an image to be a part of the cover. To do that, click the "styling" tab and then click "key image."
@@ -239,7 +239,7 @@ Okay so you have a book cover, but it doesn't lead anywhere. What do you do now?
 
 Students and other collaborators  must first register with Scalar in order to be added to your book. Once students have registered with Scalar, you can add them to your book by first going to the dashboard . 
 
-1. Go to the dashboard (the wrench icon <img src="/images/scalar/wrench.png" width="5%" alt="wrench icon">).
+1. Go to the dashboard (the wrench icon :wrench:).
 2. Select the "Book users" tab.
 3. At the bottom left of the screen, select the "Add a user" button. 
 4. When the pop up appears, you can search for a user's full name in Scalar's database. Feel free to search for "Alicia Peaker" or "Ana Lam" from the DHC and add us to your book!
