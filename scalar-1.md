@@ -55,9 +55,9 @@ Scalar requires you to add media independent of adding the media to a page. This
 
 #### Uploading Media
 
-If you want to include media and there is no stable link where the image is stored, you can upload media directly from your computer. 
+If you want to include media and there is no stable link where the image is stored, you can upload media directly from your computer. <img align="right" width="40%" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
 
-1. To upload media from the front-end of your site, hover over the upload button on the right hand side of your book.Then hover over "Files and URLs." Finally, select "Upload media files." <img align="right" width="40%" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
+1. To upload media from the front-end of your site, hover over the upload button on the right hand side of your book.Then hover over "Files and URLs." Finally, select "Upload media files."
 2. You'll be redirected to a page where you can upload a file from your computer. The max  file size for uploading is 2MB.
 3. Make sure to add relevant metadata to your image such the author, date, and source. Scalar offers many different metadata fields, but the featured fields offer specific functionality on the Scalar site.
 
@@ -82,9 +82,8 @@ Because Scalar is not keeping a copy of the media file on its servers, if it is 
 
 #### Annotating Media
 
-Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
-
 <img align="right" width="40%" src="/images/scalar/annotatemedia.PNG" alt="Screen grab of Scalar's annotation tool">
+Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
 
 On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
 
