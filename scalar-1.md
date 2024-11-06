@@ -2,7 +2,6 @@
 This tutorial was adapted from a previous tutorial created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis the Barnard College Digital Humanities Center
 
 *By Taylor Faires*
-[CREATIVE COMMONS IMAGE]
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
