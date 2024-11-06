@@ -117,9 +117,9 @@ Now that you've added some media, you can create a page to hold that media! To c
 ### Embedding Media and Annotations
 1. While on a page that you'd like to add media to, select the pencil icon to edit the page.
 2. Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. <img align="right" width="10%" src="/images/scalar/playbuttons.png" alt="Play buttons">
-3. Click on the play button with lines around it and select media from the window that pops up. <img align="right" width="40%" src="/images/scalar/embeddedmedia.PNG" alt="Screen grab of embedding media editor">
+3. Click on the play button with lines around it and select media from the window that pops up. <img align="right" width="30%" src="/images/scalar/embeddedmedia.PNG" alt="Screen grab of embedding media editor">
 4. You can then adjust the media size, align properties, and caption. You also can select whether the image is in a new line or if you want text to wrap around it. If your media has annotations, you can choose which annotations to include in this embedded media.
-5. Once you've done this, click "continue." Don't worry if it looks odd on the editing page screen or you see grey boxes. <img align="right" width="40%" src="/images/scalar/embeddedmedia.PNG" alt="Screen grab of embedding media editor">
+5. Once you've done this, click "continue." Don't worry if it looks odd on the editing page screen or you see grey boxes.
 6. Click "Save and View at the bottom of the page. Take a look at your new page!
 
 As you will see, this feature plops your media file exactly where you placed it on the page. To create a more dynamic linking of text and media:
