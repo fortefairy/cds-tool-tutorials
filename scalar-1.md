@@ -270,12 +270,12 @@ If you would like to hide individual pages, select the "Pages" tab on your dashb
 # Resources:
 ##  Examples of successful projects:
 
-- [The Nicest Kids in Town](http://nicestkids.com/nehvectors/nicest-kids/index)
-- [Phantom Skies and Shifting Ground](https://scalar.library.temple.edu/phantom-skies-and-shifting-ground/index)
+- [As I Remember It]([http://nicestkids.com/nehvectors/nicest-kids/index](https://scalar.usc.edu/ravenspace/as-i-remember-it/index))
+- [Women of the Early Harlem Renaissance: African American Women Writers 1900-1922](https://scalar.library.temple.edu/phantom-skies-and-shifting-ground/index](https://scalar.lehigh.edu/harlemwomen/index)
 
 ## Syllabi/Assignments using this tool:
 
-- [Digital Diversity](https://hcommons.org/deposits/item/hc:20443/)
+- [Digital Humanities and Early Latinx Literatures](https://works.hcommons.org/records/xf8nf-1pv23)
 - [Technologies of Literary Production](https://hcommons.org/deposits/item/hc:10329/)
 
 ## Other Guides & Tutorials:
