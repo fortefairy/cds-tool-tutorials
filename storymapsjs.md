@@ -63,8 +63,9 @@ The easiest way to create a StoryMap is to use the StoryMapJS Authoring Tool. Th
 2. Click on the "Create a StoryMap" button.
 3. Once on the Authoring Tool page, you will be prompted to log-in with Google.
 4. You will see a pop-up with an option to create a new StoryMap.
-   ![Make new StoryMap](/images/storymapjs/newstorymap.png)
-
+   ![Make new StoryMap](/images/storymapjs/newstorymap.PNG)
+5. Once you have created a new StoryMap, you will be able to view your project's editing interface
+   
 
 ### StoryMap Components
 
