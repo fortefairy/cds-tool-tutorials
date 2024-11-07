@@ -270,7 +270,7 @@ If you would like to hide individual pages, select the "Pages" tab on your dashb
 # Resources:
 ##  Examples of successful projects:
 
-- [As I Remember It](http://nicestkids.com/nehvectors/nicest-kids/index](https://scalar.usc.edu/ravenspace/as-i-remember-it/index)
+- [As I Remember It](https://scalar.usc.edu/ravenspace/as-i-remember-it/index)
 - [Women of the Early Harlem Renaissance: African American Women Writers 1900-1922](https://scalar.lehigh.edu/harlemwomen/index)
 
 ## Syllabi/Assignments using this tool:
