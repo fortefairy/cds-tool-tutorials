@@ -45,7 +45,9 @@ Please be aware it's always possible that there are accessibility concerns that 
 
 # Tutorial
 
-## Step 1: Familiarizing Yourself With the Format
+## Step 1: Getting Started
+
+### Familiarizing Yourself with the Format
 
 To understand the types of projects that work well for this tool, it is helpful to look at some examples. As you take a look at the examples below, keep in mind that visualizing information always involves privelaging specific narratives. How do these StoryMaps shape your view of cause and effect? Are there assumptions that underly these stories? These questions may not be easy to answer, especially for the examples that aren't about historical events, but it's always helpful to reflect on how visualizing information affects understanding before starting your own project.
 
@@ -53,6 +55,16 @@ To understand the types of projects that work well for this tool, it is helpful 
 -   [Ancient Rome in Chicago](https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/783a09de8300e1b5f74b99b99acb08ef/ancient-rome-in-chicago/index.html)
 -   [Hieronymus Bosch's "Garden of Earthly Delights"](https://storymap.knightlab.com/examples/bosch-garden/)
 -   [Midwest Time Machine](https://publications.newberry.org/time-machine/) (note that this is a collection of StoryMaps rather than one specific StoryMap)
+
+### Signing up for StoryMapJS
+
+The easiest way to create a StoryMap is to use the StoryMapJS Authoring Tool. This requires you to sign-in through Google:
+1. Make your way to the [StoryMapJS webpage](https://storymap.knightlab.com/).
+2. Click on the "Create a StoryMap" button.
+3. Once on the Authoring Tool page, you will be prompted to log-in with Google.
+4. You will see a pop-up with an option to create a new StoryMap.
+   ![Make new StoryMap](/images/storymapjs/newstorymap.png)
+
 
 ### StoryMap Components
 
