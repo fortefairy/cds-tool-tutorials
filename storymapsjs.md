@@ -67,33 +67,31 @@ The easiest way to create a StoryMap is to use the StoryMapJS Authoring Tool. Th
 5. Once you have created a new StoryMap, you will be able to view your project's editing interface
    
 
-### StoryMap Components
+### StoryMapJS Authoring Tool
+
+The StoryMapJS Authoring Tool has two views: Edit and Preview. The Edit interface is where you can add new slides to your StoryMap and edit information. You can check the Preview tab to see how your StoryMap will look once published. If you look to the Preview tab before adding any information, it will look pretty empty; however, below is a description of the different components of a StoryMap.
 
 Each StoryMap includes a title slide, and then several location slides. The slides themselves are fairly structured, so it's useful to understand the components before building your map:
+
+#### *For Title Slides:*
+![Title Slide, "Ancient Rome in Chicago." On left, there is a group of location markers on a map of Chicago,  with the label "location overview"](/images/storymapjs/2-StoryMaps-title_slide.png)
+
+-   **Base Map:** *The same base map is used for all of your slides*. Many StoryMaps - such as this one - use one of a few geographic base maps provided by the StoryMaps too. However, you can also use an image as your base map, such as in [Hieronymus Bosch's "Garden of Earthly Delights." ](https://storymap.knightlab.com/examples/bosch-garden/)
+-   **Location Overview:** A view of your base map that shows all location markers from your slides. This will automatically generate once you create slides. 
+-   **Headline:** The name of your project. For subsequent slides, this might be the name of the location (as in the example) or the name of an event that took place at that location, though it can be anything that makes sense with your story!
+-   **Description:** Additional information about your project/location.
+-   **Media:** In the example above, the media is an image; it can also be a video, audio file, tweet,  Instagram post, Wikipedia excerpt, Google map or Google doc. *Please note that you can only use one piece of media for each slide.*
+-   **Credit:** Space to provide credit and sourcing information for your media. This can include links as well as text.
+-   **Caption:** Short text that describes your media. While not required, it's a good idea to use a caption, as it's helpful for screenreader users, those with slower internet connections , and in cases where your media may not load (for example, if your media is a tweet that is later deleted by the Twitter user).
+
 
 #### *For Location Slides:*
 
 ![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on left, 2-location marker pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "A Fountain for Chicago," mid-right, 5-credit, "Mary Carp," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/1-storymaps-location.png)
 
--   **Base Map:** *The same base map is used for all of your slides*. Many StoryMaps - such as this one - use one of a few geographic base maps provided by the StoryMaps too. However, you can also use an image as your base map, such as in [Hieronymus Bosch's "Garden of Earthly Delights." ](https://storymap.knightlab.com/examples/bosch-garden/)
--   **Location Marker:** This points to the specific location your slide is about.
--   **Headline:** The name of your slide. Might be the name of the location (as in the example) or the name of an event that took place at that location, though it can be anything that makes sense with your story!
--   **Description:** Additional text that helps tell your narrative.
--   **Media:** In the example above, the media is an image; it can also be a video, audio file, tweet,  Instagram post, Wikipedia excerpt, Google map or Google doc. *Please note that you can only use one piece of media for each slide.*
--   **Credit:** Space to provide credit and sourcing information for your media. This can include links as well as text.
--   **Caption (not shown above):** Short text that describes your media. While not required, it's a good idea to use a caption, as it's helpful for screenreader users, those with slower internet connections , and in cases where your media may not load (for example, if your media is a tweet that is later deleted by the Twitter user).
+Location Slides will have all of the same components as the title slide; however all location slides require a location and will therefore have a location marker visible in the basemap association with your selected location.
 
-Except for the map and location marker, all of these components are optional. So, you can pick and choose what makes the most sense for your slide. While including all of these components can help tell a more complete, media-rich, narrative, there may be times where certain components don't make sense for the story you're telling.
-
-#### *For Title Slides:*
-
-The title slide can contain all of the same components as the location slides, with one crucial difference: it doesn't have a location! Instead, it will show an overview of all your locations:
-
-![Title Slide, "Ancient Rome in Chicago." On left, there is a group of location markers on a map of Chicago,  with the label "location overview"](/images/storymapjs/2-StoryMaps-title_slide.png)
-
-The location overview will be generated automatically - you'll see that happen as you start building your map!
-
-Planning Your StoryMap
+Step 2: Planning Your StoryMap
 ----------------------
 
 It is often helpful to outline your StoryMap content *before* going into the tool and actually making your map. This helps ensure you have a strong, location-based story to tell - that won't get lost in the technical weeds when you start making your map.
