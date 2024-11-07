@@ -1,10 +1,8 @@
 # StoryMapJS
 
-*created by Elana Altman*
+This tutorial was adapted from a previous tutorial created by Elana Altman the Barnard College Digital Humanities Center
 
-*updated October 22, 2020 by Miranda Jones-Davidis*
-
-*updated May 4, 2023 by Eden Segbefia, Jazmin Maço*
+*by Taylor Faires*
 
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 
@@ -14,24 +12,26 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 Introduction to the tool:
 -------------------------
 
-StoryMapJS is a free, open-source tool that combines narratives with locations, letting users tell a media-rich story. It has an easy-to-use authoring tool that's robust enough for many uses, and can also be customized with code for more advanced projects.
+StoryMapsJS is a free , open-tool that allows you to create location-based narratives with embedded media. It has a low barrier to entry with customizable features for more advanced projects.
 
 ### The tool is great for:
 
 -   Telling stories that have a spatial component
--   Providing an in-depth look at any 2D visual object (work of art, diagram, historical or fictional maps)
--   Quick, simple digital projects that stand on their own, or that can be included as part of a larger project
+-   Exploring facets of a 2D visual object (work of art, diagram, historical or fictional maps)
+-   Quick, simple digital projects such as class assignments or a standalon part of a larger digital project
 
 ### The tool is not great for:
 
 -   Combining quantitative data with mapping
+-   Creating complex interactive maps
 -   Making extremely customized visuals
 -   Collaborating with multiple people on one StoryMap (particularly if you're not in the same physical space)
 
 ### Materials:
 
 -   [https://storymap.knightlab.com](https://storymap.knightlab.com/)
--   Post-It notes or pieces of paper
+-   Reliable web browser (preferably Chrome or Firefox)
+-   A Google account (if you are unable to access Google in your country, there are ways to host your own Storymap that require some Javascript)
 
 ### Accessibility Considerations:
 
@@ -43,18 +43,16 @@ StoryMapJS is a free, open-source tool that combines narratives with locations, 
 Please be aware it's always possible that there are accessibility concerns that have yet to be discovered. Additionally, remember that CARDS can always help with making assignments accessible for students with disabilities.
 
 
-# Guided Practice
+# Tutorial
 
-## Breaking Down a StorymapJS
+## Step 1: Familiarizing Yourself With the Format
 
-### StoryMapJS Examples
-
-The best way to to understand what a StoryMap is to view one. Take a look at the examples below to get a sense of what you can do with a StoryMap. As you view them, think about the following question: *What do you find compelling or effective in these StoryMaps? What doesn't work as well for you? Why?*
+To understand the types of projects that work well for this tool, it is helpful to look at some examples. As you take a look at the examples below, keep in mind that visualizing information always involves privelaging specific narratives. How do these StoryMaps shape your view of cause and effect? Are there assumptions that underly these stories? These questions may not be easy to answer, especially for the examples that aren't about historical events, but it's always helpful to reflect on how visualizing information affects understanding before starting your own project.
 
 -   [Golden Gate to Haight: Distrusting The Government, Trusting Love](https://uploads.knightlab.com/storymapjs/520b5153c4a0fef7be4fdf56f95736fc/antiwar-protests-in-san-francisco-1960-1975/index.html)
 -   [Ancient Rome in Chicago](https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/783a09de8300e1b5f74b99b99acb08ef/ancient-rome-in-chicago/index.html)
 -   [Hieronymus Bosch's "Garden of Earthly Delights"](https://storymap.knightlab.com/examples/bosch-garden/)
--   [A Night Out as a Columbia Student](https://www.columbiaspectator.com/spectrum/2020/04/17/a-night-out-as-a-columbia-student/)
+-   [Midwest Time Machine](https://publications.newberry.org/time-machine/) (note that this is a collection of StoryMaps rather than one specific StoryMap)
 
 ### StoryMap Components
 
