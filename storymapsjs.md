@@ -96,52 +96,28 @@ Step 2: Planning Your StoryMap
 
 It is often helpful to outline your StoryMap content *before* going into the tool and actually making your map. This helps ensure you have a strong, location-based story to tell - that won't get lost in the technical weeds when you start making your map.
 
-### Step 1
+### Come Up With a Story
 
-There are so many stories you could tell about yourself! You can come up with your own idea, or choose from one of the suggestions below.
+There are so many ways to use a StoryMap. Below are a few ideas to get you started:
 
--   Where you have lived
--   A common walking route
--   Significant life events
--   Locations of favorite books
--   Exploration of a personal photograph
+- A roadtrip you've taken or want to take
+- Filming locaitons in your city/state
+- Famous locations in a book
+- Your favorite spots in your hometown
 
-### Step 2
-Once you come up with your story, choose the kind of basemap that best reflects your story. StorymapJS allows you to choose from several kinds of basemaps including Stamen maps, Open Street maps, Custom maps, and MapBox or Gigapixel options. 
--   Stamen and Open Street maps are best for telling stories that have a spatial component. *These maps use longitudinal and latitudinal location markers.*
--   MapBox and Gigapixel options are best for people who have created their own maps or are analyzing a 2D visual object. *These maps use reference points instead of specific location markers.*  
+### Choose a Basemap
+Once you come up with your story, choose the kind of basemap that best reflects your story. StorymapJS allows you to choose from several kinds of basemaps including Open Street maps, Cooper Hewitt maps, Custom maps, and MapBox or Gigapixel options. 
+- Open Street and Cooper Hewitt maps are best for telling stories that have a spatial component. *These maps use longitudinal and latitudinal location markers.*
+- MapBox and Gigapixel options are best for people who have created their own maps or are analyzing a 2D visual object. *These maps use reference points instead of specific location markers.*  
 
 To learn more about how to work with Gigapixel basemaps jump to: [Using A "Gigapixel" Image As Your Base Map](#using-a-gigapixel-image-as-your-base-map)
 
-### Step 3
+### Plan out Locations
 
-Write down locations and/or reference points you'd like to include on your StoryMap, using one post-it note per place (as shown below). Aim for about 5 locations.
+Once you've chosen your basemap, start thinking about which locations to include. It's often good to start small and build out if it makes sense. A StoryMap with over 20 slides might be hard for people to navigate. Reflect on the story you want to tell, which slides are necessary, what do you leave out? Once you have a list of 5-10, you can start to create your StoryMap 
 
-*I did this with places in my hometown:*
 
-![6 post-it notes with a different location on each one](/images/storymapjs/3-GlenRock_locations.jpg)
-
-*Above, I did this exercise with favorite places in my hometown.*
-
-### Step 4
-
-Arrange the post-it notes in the order you'd like the locations to appear in the story map. You may want to try a few different orders before deciding on one!
-
-*Version 1, walking tour through town:*
-
-![Post-It notes ordered: 1. Hot Bagels 2. Parent's House 3. Starbucks 4. Tani 5. The Rock 6. The Pool](/images/storymapjs/4-glenrock-geography.jpg)
-
-*Version 2, day in the life:*
-
-![Post-It notes with locations: 1. Hot Bagels 2. Pool 3. Rock 4. Starbucks 5. Parent's House 6. Tani](/images/storymapjs/5-glenrock-daylife.jpg)
-
-Reflect: *Why did you choose the order you did? Does it follow a chronological pattern, a geographic one (such as going west to east, north to south, in a circle), or something else entirely? How does your order relate to the story you're telling? Are there other orders you could have used?*
-
-### Step 5
-
-Take a moment to review your work - now that you have more of a narrative structure,  you may discover that you want to change a location or two to better fit with your story. You can also jot down notes about each location. What would you like to say in your description of each one? What media (photo, video, etc.) will you show for each one? It's useful to think about your content before you start making your StoryMap.
-
-Making StoryMap Slides
+Step 3: Making StoryMap Slides
 ----------------------
 
 It's time to start using the StoryMap tool! This tutorial, by Tierney Steelberg at Guilford College, gives a [nice overview](https://youtu.be/X4gOXga-Q_w) of how to use the basic StoryMap features. If you're new to StoryMapJS, I'd recommend watching it before we go through the steps together.
