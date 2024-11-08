@@ -112,10 +112,9 @@ Once you come up with your story, choose the kind of basemap that best reflects 
 
 To learn more about how to work with Gigapixel basemaps jump to: [Using A "Gigapixel" Image As Your Base Map](#using-a-gigapixel-image-as-your-base-map)
 
-### Plan out Locations
+### Plan out Slides and Locations
 
-Once you've chosen your basemap, start thinking about which locations to include. It's often good to start small and build out if it makes sense. A StoryMap with over 20 slides might be hard for people to navigate. Reflect on the story you want to tell, which slides are necessary, what do you leave out? Once you have a list of 5-10, you can start to create your StoryMap 
-
+Once you've chosen your basemap, start thinking about which slides (and their locations) to include. It's often good to start small and build out if it makes sense. A StoryMap with over 20 slides might be hard for people to navigate. Reflect on the story you want to tell, which slides are necessary, what do you leave out? Once you have a list of 5-10, you can start to create your StoryMap. The example we've been using looks at writers of the American Midwest. There are obviously more than 20 writers who are from the Midwest, so deciding who to include is an important step. Should the story focus on the most famous writers? How do we define that
 
 Step 3: Making StoryMap Slides
 ----------------------
