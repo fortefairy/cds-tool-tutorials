@@ -91,6 +91,7 @@ Each StoryMap includes a title slide, and then several location slides. The slid
 
 Location Slides will have all of the same components as the title slide; however all location slides require a location and will therefore have a location marker visible in the basemap association with your selected location.
 
+
 Step 2: Planning Your StoryMap
 ----------------------
 
@@ -115,6 +116,7 @@ To learn more about how to work with Gigapixel basemaps jump to: [Using A "Gigap
 ### Plan out Slides and Locations
 
 Once you've chosen your basemap, start thinking about which slides (and their locations) to include. It's often good to start small and build out if it makes sense. A StoryMap with over 20 slides might be hard for people to navigate. Reflect on the story you want to tell, which slides are necessary, what do you leave out? Once you have a list of 5-10, you can start to create your StoryMap. The example we've been using looks at writers of the American Midwest. There are obviously more than 20 writers who are from the Midwest, so deciding who to include is an important step. Should the story focus on the most famous writers? How do we define that
+
 
 Step 3: Making StoryMap Slides
 ----------------------
@@ -147,7 +149,8 @@ Save and preview your work. To make sure nothing gets lost, click the "save" but
 
 The content of your StoryMap is now complete! But you may want to make it look different - so let's learn how to do that.
 
-Styling Your StoryMap
+
+Step 4: Styling Your StoryMap
 ----------------------
 There are four main aspects of your StoryMap's visual style that you can change within the StoryMap editor:
 
@@ -160,11 +163,11 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 ![Showing locations of options button, background options button and marker options button](/images/storymapjs/12-Storymap-customstyle.png)
 
-**Base Map:** Open the options menu (make sure you're back in editing mode, or it won't open), and find the field for map type, towards the bottom. Choose from several of the Stamen maps, or the Open Street Maps. Reminder: The custom, MapBox or Gigapixel options are for people who have created their own maps or images. Click "close" to see your changes.
+**Base Map:** Open the options menu and find the field for map type, towards the bottom. Choose from several of the maps. You'll notice there are options for Stamen maps with asterisks. That's because these maps are deprecated and shouldn't be used. Keep in mind that you can use custom maps or large images, but that will require additional steps. Once you're finished, you can click "close."
 
 **Fonts:** Like the *base map*, you can change the *fonts* from the options menu. Select from the drop down of font options. Most of the fonts are listed in pairs: The first font listed is for the headline text, while the second is for the description test. Click "close" to see your new fonts; you may want to try a few out before deciding.
 
-**Background Color/Images:** To change the background of your slide, click on "background options" in the bottom right corner of the window. You'll then be prompted  to select a new color for your background or upload an image. Remember, this will only change the background for this specific slide - if you want to use this background color. Also, be sure to check that your text is readable on your new background in order for the slide to be as accessible as possible! Check out [this link](https://www.w3.org/WAI/perspective-videos/contrast/) for more on how to choose colors with contrast.
+**Background Color/Images:** You can change the background of each slide by clicking the "background options" button on the bottom right corner of your editor screen. You'll then be prompted to select a new color for your background or upload an image. Remember, this will only change the background for this specific slide - if you want to use this background color. Keep in mind that changing the color of your background can make your slide less readable if you aren't paying attention to color contrast, check out [this link](https://www.w3.org/WAI/perspective-videos/contrast/) for more on how to choose colors with contrast.
 
 **Location Markers:** To change the location markers, click "marker options," also in the bottom right corner of the window. You'll be prompted to upload an image you'd like to use for your location marker - it will only change the marker for this one slide, so you may want to change your markers for other slides as well.
 
