@@ -119,31 +119,15 @@ Once you've chosen your basemap, start thinking about which slides (and their lo
 Step 3: Making StoryMap Slides
 ----------------------
 
-It's time to start using the StoryMap tool! This tutorial, by Tierney Steelberg at Guilford College, gives a [nice overview](https://youtu.be/X4gOXga-Q_w) of how to use the basic StoryMap features. If you're new to StoryMapJS, I'd recommend watching it before we go through the steps together.
+### Add your Title Slide
 
-### Step 1
+Now that you've planned out created your StoryMapJS account, planned out your slides, and looked at some examples, it's time to create your StoryMap. The first thing you'll want to do is create a title slide. The title slide is the only slide that doesn't require a location. Add a title and description, then turn your attending to the left side of your editor. You can either upload a piece of media or link to it. If your media is already on a stable place online (such as Wikipedia), it's recommended that you link to that image rather than downloading it and re-uploading it yourself. All content that's online is stored somewhere and that storage takes up energy. This being said, if you want to use an image and you aren't sure if that image will stay online, it is absolutely okay to upload your own copy!
 
-To start your StoryMap, please go to [https://storymap.knightlab.com/](https://storymap.knightlab.com/). Click the big green button that says "Make a StoryMap." It will prompt you to log in with your Google account.
-
-### Step 2
-
-In the dialog box that pops up, give your StoryMap a name, so you can go back and find it later. Then click "create."
-
-![Screenshot of dialog box where you create a StoryMap](/images/6-Storymap-create.png)
-
-### Step 3
-
-You're now in the StoryMap editor, as shown below. It's time to make your title slide.
-
-![Screenshot of StoryMap tool - map on top, media info bottom-left, description and text info bottom-right](/images/storymapjs/7-Screen%20Shot%202020-05-19%20at%2010.38.43%20PM.png)
-
-Give your map a title, and write it in the headline box (toward the bottom right of the window). Directly below it, in the description box, write some introductory text.
-
-Then, turn your attention to the bottom-left corner of your window. Here, you can enter the URL to your media - as mentioned, this could be an image, video, social media post. Alternatively, if it is an image, you can also upload the file from your computer (video and audio files cannot be added this way). Then, in the text boxes below it, write your credit and caption. When finished, your slide should look like this:
+Your media can be an image, video, social media post. Keep in mind, if you want to use something other than a still image, you must link to that piece of media rather than upload it. Once you've added your pievce of media, in the text boxes below it, write your credit and caption. When finished, your slide should look like this:
 
 ![screenshot with title slide information filled in](/images/storymapjs/8-Screen%20Shot%202020-05-19%20at%2010.48.59%20PM.png)
 
-### Step 4
+### Add Location Slides
 
 Make your location slides. To add your first location slide, click the "add slide" button on the left-hand side of your window (the button with the large plus sign). You'll be brought to a screen that looks very similar to the one for your title slide, with a key difference: there's now a box on the map for you to type in your location! As shown below, enter the address of your first location *(you can use a street address, latitude/longitude, or just a city, state or country name)*.
 
@@ -155,7 +139,7 @@ You'll then see a red marker on the map, showing the location you selected. Now,
 
 When you finish the first slide, continue adding slides for the rest of your locations.
 
-### Step 5
+### Save Your Work
 
 Save and preview your work. To make sure nothing gets lost, click the "save" button  (the top-left of window) Then, click the preview tab (top-center) to see what your StoryMap looks like. You'll notice that the title slide now shows the overview of all the locations on you map.
 
