@@ -179,7 +179,7 @@ Your StoryMap is now complete! To publish and share:
 2.  Click "Publish Changes" button (the button may not appear until after you save your work)
 3.  Click "Share" on the top-right corner of the window. Copy the link that appears at the top, as shown:
 <p align="center">
- <img align="center" width="40%" src="/images/storymapjs/13-share-with-link.PNG" alt="Screenshot showing location of link at top of page">
+ <img align="center" width="40%" src="/images/storymapjs/share-with-link.PNG" alt="Screenshot showing location of link at top of page">
 </p>
 4.  If you'd like to embed your StoryMap as part of a website, you can do that too - you just need to scroll down in the "share" window, and copy and paste the code that looks like this:
 <p align="center">
@@ -212,7 +212,7 @@ Once you have your image, you need to prepare it to be used on StoryMapJS. For y
 Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."
 Once you've entered a name for your StoryMap, click the "options" button in the top-left corner. Change the "map type" to Gigapixel, as shown below:
 
-![Example: Storymap Options Menu Gigapixel Map Setting](images/storymapjs/Gigapixel-Options-Menu-Screen-Shot-2021-04-09-at-5.58.27-PM.png)
+![Example: Storymap Options Menu Gigapixel Map Setting](images/storymapjs/gigapixel-link.PNG)
 
 In the box that says "Zoomify URL", enter the URL where your tile files are hosted. If you used Zoomable, check your email for the link to your image and click the "embed image" button on the top-right corner. There should be an option for embedding through StoryMapJS in the dropdown menu. If you chose to tile the image yourself and host it on GitHub, the GitHub hosting instructions will show you exactly where to find this URL. Under max image size, enter the pixel width and height of your original image (before Zoomifying it). Click close.
 
