@@ -2,7 +2,7 @@
 
 This tutorial was adapted from a previous tutorial created by Elana Altman the Barnard College Digital Humanities Center
 
-*by Taylor Faires*
+*by Taylor Faires and Elana Altman*
 
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 
