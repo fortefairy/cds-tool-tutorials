@@ -88,7 +88,7 @@ Each StoryMap includes a title slide, and then several location slides. The slid
 
 #### *For Location Slides:*
 
-![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Willa Cather," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/slide-page.png)
+![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Saul Bellow," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/slide-page.png)
 
 Location Slides will have all of the same components as the title slide; however all location slides require a location and will therefore have a location marker visible in the basemap association with your selected location.
 
@@ -144,7 +144,7 @@ When you finish the first slide, continue adding slides for the rest of your loc
 
 Save and preview your work. To make sure nothing gets lost, click the "save" button  (the top-left of window) Then, click the preview tab (top-center) to see what your StoryMap looks like. You'll notice that the title slide now shows the overview of all the locations on you map.
 
-![Screenshot showing title slide of Glen Rock StoryMap](/images/storymapjs/11-Screen%20Shot%202020-05-19%20at%2011.05.48%20PM.png)
+![Screenshot showing title slide of Glen Rock StoryMap](/images/storymapjs/storymaps-title-slide.PNG)
 
 The content of your StoryMap is now complete! But you may want to make it look different - so let's learn how to do that.
 
