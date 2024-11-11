@@ -88,7 +88,7 @@ Each StoryMap includes a title slide, and then several location slides. The slid
 
 #### *For Location Slides:*
 
-![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Saul Bellow," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/slide-page.png)
+![Screenshot of "Writers of the American Midwest" slide.  Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Saul Bellow," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/slide-page.png)
 
 Location Slides will have all of the same components as the title slide; however all location slides require a location and will therefore have a location marker visible in the basemap association with your selected location.
 
@@ -160,7 +160,7 @@ There are four main aspects of your StoryMap's visual style that you can change 
 
 The *base map* and *fonts* must be the same for the entire StoryMap, while the *background color/images* and *location markers* can be different for each slide. Here's how you change each one:
 
-![Showing locations of options button, background options button and marker options button](/images/storymapjs/12-Storymap-customstyle.png)
+![Showing locations of options button, background options button and marker options button](/images/storymapjs/customization.png)
 
 **Base Map:** Open the options menu and find the field for map type, towards the bottom. Choose from several of the maps. You'll notice there are options for Stamen maps with asterisks. That's because these maps are deprecated and shouldn't be used. Keep in mind that you can use custom maps or large images, but that will require additional steps. Once you're finished, you can click "close."
 
@@ -179,11 +179,11 @@ Your StoryMap is now complete! To publish and share:
 2.  Click "Publish Changes" button (the button may not appear until after you save your work)
 3.  Click "Share" on the top-right corner of the window. Copy the link that appears at the top, as shown:
 <p align="center">
- <img align="center" width="40%" src="/images/storymapjs/13-sharing.png" alt="Screenshot showing location of link at top of page">
+ <img align="center" width="40%" src="/images/storymapjs/13-share-with-link.PNG" alt="Screenshot showing location of link at top of page">
 </p>
 4.  If you'd like to embed your StoryMap as part of a website, you can do that too - you just need to scroll down in the "share" window, and copy and paste the code that looks like this:
 <p align="center">
- <img align="center" width="40%" src="/images/storymapjs/14-sharing2.png" alt="Screenshot highlighting code to copy and paste for a website, in the 'embed' field">
+ <img align="center" width="40%" src="/images/storymapjs/share-embed.PNG" alt="Screenshot highlighting code to copy and paste for a website, in the 'embed' field">
 </p>
 
 
