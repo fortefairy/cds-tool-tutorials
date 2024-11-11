@@ -88,7 +88,7 @@ Each StoryMap includes a title slide, and then several location slides. The slid
 
 #### *For Location Slides:*
 
-![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Willa Cather," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/location-page.png)
+![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Willa Cather," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/slide-page.png)
 
 Location Slides will have all of the same components as the title slide; however all location slides require a location and will therefore have a location marker visible in the basemap association with your selected location.
 
@@ -128,17 +128,15 @@ Now that you've planned out created your StoryMapJS account, planned out your sl
 
 Your media can be an image, video, social media post. Keep in mind, if you want to use something other than a still image, you must link to that piece of media rather than upload it. Once you've added your pievce of media, in the text boxes below it, write your credit and caption. When finished, your slide should look like this:
 
-![screenshot with title slide information filled in](/images/storymapjs/8-Screen%20Shot%202020-05-19%20at%2010.48.59%20PM.png)
+![screenshot with title slide information filled in](/images/storymapjs/editor-interface.PNG)
 
 ### Add Location Slides
 
 Make your location slides. To add your first location slide, click the "add slide" button on the left-hand side of your window (the button with the large plus sign). You'll be brought to a screen that looks very similar to the one for your title slide, with a key difference: there's now a box on the map for you to type in your location! As shown below, enter the address of your first location *(you can use a street address, latitude/longitude, or just a city, state or country name)*.
 
-![Screenshot of address bar to find location on a StoryMap](/images/storymapjs/9-Screen%20Shot%202020-05-19%20at%2010.54.37%20PM.png)
+![Screenshot of address bar to find location on a StoryMap](/images/storymapjs/editor-slides.PNG)
 
 You'll then see a red marker on the map, showing the location you selected. Now, you can fill out the other fields - headline, description, media URL, credit and caption - just as you did for the title slide. When you're done, it should look something like this:
-
-![Slide about bagels on StoryMap](/images/storymapjs/10-Screen%20Shot%202020-05-19%20at%2011.01.08%20PM.png)
 
 When you finish the first slide, continue adding slides for the rest of your locations.
 
