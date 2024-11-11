@@ -4,7 +4,7 @@ Welcome to the UChicago CDS tutorial page. You can find tutorials for a multitud
 
 ## [Scalar I](https://github.com/fortefairy/cds-tool-tutorials/blob/main/scalar-1.md)
 
-## [Scalar II](https://github.com/fortefairy/cds-tool-tutorials/blob/main/scalar-2.md)
+## [Scalar II](https://github.com/fortefairy/cds-tool-tutorials/blob/main/scalar-2.md) UNDER CONSTRUCTION
 
 ## [StorymapJS](https://github.com/fortefairy/cds-tool-tutorials/blob/main/storymapsjs.md)
 
