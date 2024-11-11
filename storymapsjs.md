@@ -102,7 +102,7 @@ It is often helpful to outline your StoryMap content *before* going into the too
 There are so many ways to use a StoryMap. Below are a few ideas to get you started:
 
 - A roadtrip you've taken or want to take
-- Filming locaitons in your city/state
+- Filming locations in your city/state
 - Famous locations in a book
 - Your favorite spots in your hometown
 
