@@ -189,20 +189,16 @@ You'll need to find an image that makes sense with your content and the story yo
 
 If you don't have such an image readily available, and aren't able to find or create one, StoryMapJS may not be the best tool for your project.
 
-Once you have your image, you need to prepare it to be used on StoryMapJS. For your image to work with StoryMapJS, the underlying technical structure of the image must resemble the underlying technical structure of a digital map. Digital maps are made up of tiles, and "zoomifying" your image is a process that converts your image into a series of tiles. You can follow [these instructions to Zoomify your image with the free Zoomify app](https://storymap.knightlab.com/gigapixel/#zoomify-export).
+Once you have your image, you need to prepare it to be used on StoryMapJS. For your image to work with StoryMapJS, the underlying technical structure of the image must resemble the underlying technical structure of a digital map. Digital maps are made up of tiles and there are a handful of services that will wile your images for you. One of them is [Zoomable](https://www.zoomable.ca/index.html). This does require you to give an email and you are limited to 5 free images, but this is by far the easiest way to tile your image. Other options include using your command line to tile an image and then hosting the tiles on GitHub. For more information on this, check out [this tutorial](https://storymap.knightlab.com/gigapixel/) or reach out to the CDS for more support.
 
-### Step 3
-*Host the image tiles on the web.* Now that your image has been converted into tiles, the tiles must be placed on a web server. This allows StoryMapJS's servers to access your tiles. While there are several hosting services you could use for this, using GitHub is often the simplest option. You can follow [these instructions for hosting your tiles on GitHub](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md).
+### Link Your Image Tiles to your StoryMap
 
-Alternatively, if you have experience with another web hosting service, feel free to use it instead.
-
-### Step 4
-*Link your StoryMap to your image tiles.* Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."
+Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."
 Once you've entered a name for your StoryMap, click the "options" button in the top-left corner. Change the "map type" to Gigapixel, as shown below:
 
 ![Example: Storymap Options Menu Gigapixel Map Setting](images/storymapjs/Gigapixel-Options-Menu-Screen-Shot-2021-04-09-at-5.58.27-PM.png)
-  
-In the box that says "Zoomify URL", enter the URL where your tile files are hosted. The GitHub hosting instructions will show you exactly where to find this URL. Under max image size, enter the pixel width and height of your original image (before Zoomifying it). Click close.
+
+In the box that says "Zoomify URL", enter the URL where your tile files are hosted. If you used Zoomable, check your email for the link to your image and click the "embed image" button on the top-right corner. There should be an option for embedding through StoryMapJS in the dropdown menu. If you chose to tile the image yourself and host it on GitHub, the GitHub hosting instructions will show you exactly where to find this URL. Under max image size, enter the pixel width and height of your original image (before Zoomifying it). Click close.
 
 You're now ready to make your StoryMap, with the image as the base map! The rest of the process will be exactly the same as creating a regular StoryMap, with one small but important difference: Since you're not working with a geographical map, you cannot enter an address or longitude and latitude to place your location markers. Instead, click the image in the spot where you want to place your location markers. You can then click and drag your location marker if you'd like to move it.
 
