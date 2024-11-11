@@ -171,7 +171,24 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 **Location Markers:** To change the location markers, click "marker options," also in the bottom right corner of the window. You'll be prompted to upload an image you'd like to use for your location marker - it will only change the marker for this one slide, so you may want to change your markers for other slides as well.
 
-Using A Gigapixel Image As Your Base Map:
+Step 5: Sharing Your StoryMap
+---------------------
+
+Your StoryMap is now complete! To publish and share:
+
+1.  Save your StoryMap
+2.  Click "Publish Changes" button (the button may not appear until after you save your work)
+3.  Click "Share" on the top-right corner of the window. Copy the link that appears at the top, as shown:
+<p align="center">
+ <img align="center" width="40%" src="/images/storymapjs/13-sharing.png" alt="Screenshot showing location of link at top of page">
+</p>
+4.  If you'd like to embed your StoryMap as part of a website, you can do that too - you just need to scroll down in the "share" window, and copy and paste the code that looks like this:
+<p align="center">
+ <img align="center" width="40%" src="/images/storymapjs/14-sharing2.png" alt="Screenshot highlighting code to copy and paste for a website, in the 'embed' field">
+</p>
+
+
+Optional: Using A Gigapixel Image As Your Base Map:
 ----------------------
 
 ![Example: Hieronymus Bosch's "Garden of Earthly Delights-Storymap with gigapixel image](/images/storymapjs/15_Screen_Shot_2023-05-02_at_6_00.25_PM.png)
@@ -201,22 +218,6 @@ Once you've entered a name for your StoryMap, click the "options" button in the 
 In the box that says "Zoomify URL", enter the URL where your tile files are hosted. If you used Zoomable, check your email for the link to your image and click the "embed image" button on the top-right corner. There should be an option for embedding through StoryMapJS in the dropdown menu. If you chose to tile the image yourself and host it on GitHub, the GitHub hosting instructions will show you exactly where to find this URL. Under max image size, enter the pixel width and height of your original image (before Zoomifying it). Click close.
 
 You're now ready to make your StoryMap, with the image as the base map! The rest of the process will be exactly the same as creating a regular StoryMap, with one small but important difference: Since you're not working with a geographical map, you cannot enter an address or longitude and latitude to place your location markers. Instead, click the image in the spot where you want to place your location markers. You can then click and drag your location marker if you'd like to move it.
-
-Sharing Your StoryMap
----------------------
-
-Your StoryMap is now complete! To publish and share:
-
-1.  Save your StoryMap
-2.  Click "Publish Changes" button (the button may not appear until after you save your work)
-3.  Click "Share" on the top-right corner of the window. Copy the link that appears at the top, as shown:
-<p align="center">
- <img align="center" width="40%" src="/images/storymapjs/13-sharing.png" alt="Screenshot showing location of link at top of page">
-</p>
-4.  If you'd like to embed your StoryMap as part of a website, you can do that too - you just need to scroll down in the "share" window, and copy and paste the code that looks like this:
-<p align="center">
- <img align="center" width="40%" src="/images/storymapjs/14-sharing2.png" alt="Screenshot highlighting code to copy and paste for a website, in the 'embed' field">
-</p>
 
 # Reflection:
 - In what ways did the StoryMap tool expand how you think about places and narratives?
