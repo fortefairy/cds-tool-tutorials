@@ -77,7 +77,8 @@ Each StoryMap includes a title slide, and then several location slides. The slid
 ![Title Slide, "Writers of the American MidWest." Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Writers of the American MidWest," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/title-page.png)
 
 -   **Base Map:** *The same base map is used for all of your slides*. Many StoryMaps - such as this one - use one of a few geographic base maps provided by the StoryMaps too. However, you can also use an image as your base map, such as in [Hieronymus Bosch's "Garden of Earthly Delights." ](https://storymap.knightlab.com/examples/bosch-garden/)
--   **Location Overview:** A view of your base map that shows all location markers from your slides. This will automatically generate once you create slides. 
+-   **Location Overview:** A view of your base map that shows all location markers from your slides. This will automatically generate once you create slides.
+-   **Location Markers:** Markers for the location of each of your slides. 
 -   **Headline:** The name of your project. For subsequent slides, this might be the name of the location (as in the example) or the name of an event that took place at that location, though it can be anything that makes sense with your story!
 -   **Description:** Additional information about your project/location.
 -   **Media:** In the example above, the media is an image; it can also be a video, audio file, tweet,  Instagram post, Wikipedia excerpt, Google map or Google doc. *Please note that you can only use one piece of media for each slide.*
@@ -87,7 +88,7 @@ Each StoryMap includes a title slide, and then several location slides. The slid
 
 #### *For Location Slides:*
 
-![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on left, 2-location marker pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "A Fountain for Chicago," mid-right, 5-credit, "Mary Carp," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/1-storymaps-location.png)
+![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Willa Cather," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/location-page.png)
 
 Location Slides will have all of the same components as the title slide; however all location slides require a location and will therefore have a location marker visible in the basemap association with your selected location.
 
