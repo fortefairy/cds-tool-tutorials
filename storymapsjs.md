@@ -74,7 +74,7 @@ The StoryMapJS Authoring Tool has two views: Edit and Preview. The Edit interfac
 Each StoryMap includes a title slide, and then several location slides. The slides themselves are fairly structured, so it's useful to understand the components before building your map:
 
 #### *For Title Slides:*
-![Title Slide, "Ancient Rome in Chicago." On left, there is a group of location markers on a map of Chicago,  with the label "location overview"](/images/storymapjs/2-StoryMaps-title_slide.png)
+![Title Slide, "Writers of the American MidWest." Labeled with the following annotations: 1-base map in background on top left, 2-location markers pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "Writers of the American MidWest," mid-right, 5-credit, "Wikipedia," far right, 6-description, long paragraph of text, bottom right](/images/storymapjs/title-page.png)
 
 -   **Base Map:** *The same base map is used for all of your slides*. Many StoryMaps - such as this one - use one of a few geographic base maps provided by the StoryMaps too. However, you can also use an image as your base map, such as in [Hieronymus Bosch's "Garden of Earthly Delights." ](https://storymap.knightlab.com/examples/bosch-garden/)
 -   **Location Overview:** A view of your base map that shows all location markers from your slides. This will automatically generate once you create slides. 
