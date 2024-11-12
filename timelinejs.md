@@ -1,10 +1,8 @@
 # TimelineJS
 
-*created by Elana Altman*
+This tutorial was adapted from a previous tutorial created by Elana Altman at the Barnard College Digital Humanities Center
 
-*updated October 23, 2020 by Miranda Jones-Davidis, Ana Lam*
-
-*updated May 12, 2022 by Ellie Yousif*
+*adapted by Taylor Faires*
 
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 
@@ -32,21 +30,20 @@ Materials:
 
 -   [https://timeline.knightlab.com/](https://timeline.knightlab.com/)
 -   [Spreadsheet Template](https://docs.google.com/spreadsheets/u/1/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/copy)
--   A personal Google account (or other Google account that lets you share things publicly - unfortunately, your gBear account won't work here)
--   Notepad, pen, post-its, etc. (for brainstorming/planning)
+-   A personal Google account
 
 
-# Guided Practice
+# Tutorial
 
-## Breaking Down A TimelineJS
+## Step 1: Getting Started
 
-### TimelineJS Examples
+### Familiarizing Yourself with the Format
 
-To get a sense of the structure of a TimelineJS,  take a look at the examples below. As you view them, think about the following question: *What do you find compelling or effective in these Timelines? What doesn't work as well for you? Why?*
+To understand the types of projects that work well for this tool, it is helpful to look at some examples. As you take a look at the examples below, keep in mind that visualizing information always involves privelaging specific narratives. How do these timelines shape your view of cause and effect? Do they leave anything out? Are there assumptions that underly these stories? It's always helpful to reflect on how visualizing information affects understanding before starting your own project.
 
--   [The View From Ginling](https://mct.barnard.edu/home/timeline)
--   [Columbia University and the Slavery Timeline](https://slaveryexhibits.ctl.columbia.edu/timeline-narrative)
--   [Taxi Driver Scene Analysis; Shot by Shot](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1B6r1s4HiDH3wRS59jtW-U1juyD351QqffC7u5xjaxP4&font=Default&lang=en&initial_zoom=2&height=750)
+-   [The History of Wine](https://vinepair.com/wine-colonized-world-wine-history/)
+-   [African American and Civil Rights History in Charlotte, 1940-1983](https://specialcollections.charlotte.edu/exhibits/cr/)
+-   [Revolutionary User Interfaces](https://timeline.knightlab.com/examples/user-interface/index.html)
 
 ### TimelineJS Components
 
