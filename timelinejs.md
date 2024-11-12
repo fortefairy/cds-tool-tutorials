@@ -47,9 +47,26 @@ To understand the types of projects that work well for this tool, it is helpful 
 
 ### The TimelineJS Spreadsheet
 
-TimelineJS uses a formatted Google spreadsheet as a back-end. In order to create your own timeline, you need to make a copy of this spreadsheet
+TimelineJS uses a formatted Google spreadsheet as a back-end. In order to create your own timeline, you need to make a copy of this spreadsheet. To make a copy of the spreadsheet:
 
-Now, let's dive into the specifics of a TimelineJS. A TimelineJS is a lot like a slideshow: Each TimelineJS includes a title slide and  several event slides, with a dated  timeline running along the bottom of the slides.  The slides themselves are fairly structured, so it's useful to understand the components before building your timeline. To understand the components, we'll take a look at a [Photographic History of Barnard's Greek Games.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JUEDu68qzv2STUsHIb7fpCA6UT49l54_0VoT7sfq-IU&font=Default&lang=en&initial_zoom=2&height=650)
+1. Go to the [TimelineJS](https://timeline.knightlab.com/) website.
+2. Click the green "Make a Timeline" button.
+3. Click "get the spreadsheet template.
+4. You may be directed to log-in with your Google account, once you do, you will be asked if you want to make a copy of the Official TimelineJS3 Template, click "make a copy"
+5. You now have the TimelineJS template. You can rename it to whatever you want, but don't change any of the column headers
+
+Once you have the spreadsheet copied, you'll notice that there are a number of columns. These are all associated with components of your timeline. Below is a description of the different sections of the spreadsheet:
+
+**TimelineJS Spreadsheet**
+
+-   **Date (Year, Month, Day, and Time):** These four columns are associated with the start date of your timeline slide. All slides in your timeline need at least a year in order to work properly except for the title slide (more on this in the next section).
+-   **End Date (Year, Month, Day, and Time):** There are four optional columns that are associated with the end date of your slide if there is one.
+-   **Display Date:** If you want your display date to be different from your listed start and end dates, you can type it in here.
+-   **Slide Information (Headline and Text):** This is where you'll put the title of your slide and additiona information.
+-   **Media (Media, Media Caption, Media Credit, and Media Thumbnail):** This is where you will embed media, give proper attribution, and describe your media.
+-   **Additional Information (Type, Group, and Bacground):** This is where you can designate which slide is your title slide (there can only be one), if your slide belongs to a group, and the background color or image of a slide. 
+
+Now, this may be hard to follow without looking at how this appears in the final product. A TimelineJS is a lot like a slideshow: Each TimelineJS includes a title slide and  several event slides, with a dated  timeline running along the bottom of the slides.  The slides themselves are fairly structured, so it's useful to understand the components before building your timeline. To understand the components, we'll take a look at a [Photographic History of Barnard's Greek Games.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JUEDu68qzv2STUsHIb7fpCA6UT49l54_0VoT7sfq-IU&font=Default&lang=en&initial_zoom=2&height=650)
 
 #### *For Event Slides:*
 
