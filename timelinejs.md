@@ -45,7 +45,9 @@ To understand the types of projects that work well for this tool, it is helpful 
 -   [African American and Civil Rights History in Charlotte, 1940-1983](https://specialcollections.charlotte.edu/exhibits/cr/)
 -   [Revolutionary User Interfaces](https://timeline.knightlab.com/examples/user-interface/index.html)
 
-### TimelineJS Components
+### The TimelineJS Spreadsheet
+
+TimelineJS uses a formatted Google spreadsheet as a back-end. In order to create your own timeline, you need to make a copy of this spreadsheet
 
 Now, let's dive into the specifics of a TimelineJS. A TimelineJS is a lot like a slideshow: Each TimelineJS includes a title slide and  several event slides, with a dated  timeline running along the bottom of the slides.  The slides themselves are fairly structured, so it's useful to understand the components before building your timeline. To understand the components, we'll take a look at a [Photographic History of Barnard's Greek Games.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JUEDu68qzv2STUsHIb7fpCA6UT49l54_0VoT7sfq-IU&font=Default&lang=en&initial_zoom=2&height=650)
 
