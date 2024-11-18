@@ -224,21 +224,26 @@ You're now ready to make your StoryMap, with the image as the base map! The rest
 - How did this tool help you think digitally about your course content?
 
 # Resources:
-
-## Examples of successful projects:
+##  Examples of successful projects:
 In addition to the examples included in the guided practice section, you can find more in the [StoryMapJS project gallery](https://storymap.knightlab.com/#examples).
--   Golden Age of Versailles (Barnard, Spring 2020):
-    -   [Course Syllabus](https://courseworks2.columbia.edu/files/7880650) - available with Barnard login.
-    -   [Digital Lab Outline](https://courseworks2.columbia.edu/files/7880650) - available with Barnard login.
--   [Transatlantic Slave Trade](https://www.macalester.edu/news/2016/02/slave-trade-history/) (Macalester, 2016)
-- [Radio Inmigrante](https://storymap.knightlab.com/edit/?id=radio-inmigrante) (Barnard) - in progress but will be published at the end of the fall semester!
 
-## Guides & Tutorials:
--   [StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/) For those who are willing to do a little coding, this tutorial helps you customize your map a bit further
+The examples included in the guided practice section are compiled here:
+ - [Game of Thrones: Arya’s Journey](https://storymap.knightlab.com/examples/aryas-journey/)
+ - [Golden Age of Versailles](https://jardins-de-louis.glitch.me/parcours.html)
+ - [Southern Literary Trail](https://www.georgiahumanities.org/southern-literary-trail-story-map/)
+ - [Golden Gate to Haight: Distrusting The Government, Trusting Love](https://uploads.knightlab.com/storymapjs/520b5153c4a0fef7be4fdf56f95736fc/antiwar-protests-in-san-francisco-1960-1975/index.html)
+ - [Ancient Rome in Chicago](https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/783a09de8300e1b5f74b99b99acb08ef/ancient-rome-in-chicago/index.html)
+ - [Hieronymus Bosch's "Garden of Earthly Delights"](https://storymap.knightlab.com/examples/bosch-garden/)
+ - [Midwest Time Machine](https://publications.newberry.org/time-machine/)
+
+
+## Syllabi/Assignments using this tool:
+
+- [Digital Humanities and Early Latinx Literatures](https://works.hcommons.org/records/xf8nf-1pv23)
+- [Technologies of Literary Production](https://hcommons.org/deposits/item/hc:10329/)
+
+## Other Guides & Tutorials:
+[StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/) For those who are willing to do a little coding, this tutorial helps you customize your map a bit further
 -   [StoryMapJS for Images:](https://storymap.knightlab.com/gigapixel/) How to use an image as your base map
 -   [QuickStart Guide to StoryMapJS:](https://mcgrawect.princeton.edu/guides/KnightLab-StoryMaps.pdf) From Princeton's McGraw Center for Teaching & Learning
 -   [Scholarly Smackdown: StoryMapJS vs. Story Maps:](https://publish.illinois.edu/commonsknowledge/2017/03/02/scholarly-smackdown-storymap-js-vs-story-maps/) Comparing two commonly used tools for telling location-based narratives
-
-## Barnard Resources:
-- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) or [IMATS](https://imats.barnard.edu/) for additional help!
-- [FAQs from Barnard faculty and students](https://docs.google.com/document/d/1FtuoyRJs7v89dBxZCyTUwzn55SsCsso8H9sil_iMPAo/edit?usp=sharing)
