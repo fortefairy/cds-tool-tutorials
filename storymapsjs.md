@@ -241,6 +241,8 @@ The examples included in the guided practice section are compiled here:
 
 - [Visualizing Roman History - San Francisco State University](https://sites.google.com/sdsu.edu/hist503/spring-2018/visualizing-space-2018?authuser=0)
 - [American Slavery - Dickinson College](https://blogs.dickinson.edu/hist-311pinsker/course-syllabus/)
+- [Re-imagining Assignments in the DH Classroom: StoryMaps](https://review.gale.com/2023/09/19/re-imagining-assignments-in-the-dh-classroom-storymaps/)
+- [StoryMapJS Author Biography Project](https://teachoer.org/writing/storymapjs-author-biography-project/)
 
 ## Other Guides & Tutorials:
 -   [Making a StoryMapJS in Six Steps](https://pressbooks.library.yorku.ca/csiw-workshops/chapter/6-steps-making-a-storymapjs/)
