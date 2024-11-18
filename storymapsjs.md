@@ -243,7 +243,7 @@ The examples included in the guided practice section are compiled here:
 - [Technologies of Literary Production](https://hcommons.org/deposits/item/hc:10329/)
 
 ## Other Guides & Tutorials:
-[StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/) For those who are willing to do a little coding, this tutorial helps you customize your map a bit further
+-   [Making a StoryMapJS in Six Steps](https://pressbooks.library.yorku.ca/csiw-workshops/chapter/6-steps-making-a-storymapjs/)
+-   [StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/) For those who are willing to do a little coding, this tutorial helps you customize your map a bit further
 -   [StoryMapJS for Images:](https://storymap.knightlab.com/gigapixel/) How to use an image as your base map
--   [QuickStart Guide to StoryMapJS:](https://mcgrawect.princeton.edu/guides/KnightLab-StoryMaps.pdf) From Princeton's McGraw Center for Teaching & Learning
--   [Scholarly Smackdown: StoryMapJS vs. Story Maps:](https://publish.illinois.edu/commonsknowledge/2017/03/02/scholarly-smackdown-storymap-js-vs-story-maps/) Comparing two commonly used tools for telling location-based narratives
+-   [Displaying a Georeferenced Map in KnightLab’s StoryMap JS](https://programminghistorian.org/en/lessons/displaying-georeferenced-map-knightlab-storymap-js#step-1-exporting-a-tile-url-for-your-georeferenced-map)
