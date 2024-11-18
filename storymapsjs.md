@@ -239,11 +239,11 @@ The examples included in the guided practice section are compiled here:
 
 ## Syllabi/Assignments using this tool:
 
-- [Digital Humanities and Early Latinx Literatures](https://works.hcommons.org/records/xf8nf-1pv23)
-- [Technologies of Literary Production](https://hcommons.org/deposits/item/hc:10329/)
+- [Visualizing Roman History - San Francisco State University](https://sites.google.com/sdsu.edu/hist503/spring-2018/visualizing-space-2018?authuser=0)
+- [American Slavery - Dickinson College](https://blogs.dickinson.edu/hist-311pinsker/course-syllabus/)
 
 ## Other Guides & Tutorials:
 -   [Making a StoryMapJS in Six Steps](https://pressbooks.library.yorku.ca/csiw-workshops/chapter/6-steps-making-a-storymapjs/)
--   [StoryMapJS for Images:](https://storymap.knightlab.com/gigapixel/)
+-   [StoryMapJS for Images](https://storymap.knightlab.com/gigapixel/)
 -   [Displaying a Georeferenced Map in KnightLab’s StoryMap JS](https://programminghistorian.org/en/lessons/displaying-georeferenced-map-knightlab-storymap-js#step-1-exporting-a-tile-url-for-your-georeferenced-map)
 -   [StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/) For those who are willing to do a little coding, this tutorial helps you customize your map a bit further
