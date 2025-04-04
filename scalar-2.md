@@ -12,11 +12,15 @@ Scalar is a digital publishing platform that allows creators to juxtapose media 
 This tutorial assumes that you have already created a Scalar book that includes content, tags, and paths. If your Scalar book does not have these features, please add them before proceeding. You may want to refer back to the Introduction to Scalar I module or review [Scalar's Quickstart Guides](https://scalar.usc.edu/works/guide2/quickstarts?path=index).
 
 ### This tool is great for:
+* Projects with lots of writing
+* Connecting media to text
+* Multi-linear narratives (think choose-your-own-adventure)
 * Dipping your toes in CSS, Javascript, and web design customizations
 ### This tool is not great for:
 * Simultaneous editing of the same Scalar book
 * Version control of your custom code (use [Git](https://git-scm.com/) or [GitHub](https://github.com/) for this).
-
+* Storing lots of images or large images. If you are affiliated with the University of Chicago, consider [OCHRE](https://voices.uchicago.edu/ochre/) for your digital collections
+* Other digital collections options include: [Omeka](https://www.omeka.net/), [Wax](https://minicomp.github.io/wax/), or [CollectionBuilder](https://collectionbuilder.github.io/)
 ## Materials:
 - An account at [scalar.usc.edu](https://scalar.me/anvc/) or your own Scalar install.
 - Internet access
