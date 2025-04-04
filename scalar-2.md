@@ -30,8 +30,6 @@ This tutorial assumes that you have already created a Scalar book that includes 
 # Page Versions
 Each time a page is saved, Scalar creates a new version of that page. Scalar makes a history of versions, available to all authors, along with metadata about each version and the ability to revert to any version. In Scalar:
 
-<img align="right" width="30%" src="/images/scalar/version.gif" alt="comic of student and professor exchanging 'final'.doc" >
-
 - Versions are accessible to authors.
 - You can see when a version was published and who published it.
 - You can revert to earlier versions of a page.
@@ -40,7 +38,7 @@ So go wild! Experiment! You can always reset later!
 
 # Metadata
 Metadata is data about data or, to put it differently, information about an object. Scalar uses metadata to generate interactive visualizations, which we will be creating later. To prepare to use those tools, we’ll need to add some metadata to our objects. 
-
+<img align="right" width="40%" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
 1. In Scalar, navigate to a media object’s page (the [index](https://scalar.usc.edu/works/guide2/reading-in-scalar?path=getting-started) can be helpful here).
 2. In the tabs below the media, click on the “Details” tab to show the current metadata associated with this object. Notice the fields that begin with “dcterms:”—these refer to the Dublin Core metadata schema. 
 3. To add more metadata, select the edit icon (pencil) at the top of the page. 
