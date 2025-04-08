@@ -107,14 +107,6 @@ Start by picking a subject for your timeline. Make sure to choose a subject that
 - Show how specific events (social movements, passing of laws, earning a degree) lead to later events
 - Highlight the pacing of events (the speed of a romance in a book, the long lead-up to a historical election, a sudden career switch, etc.)
 
-### Step 1 - Pick a Subject
-
-Start by picking your subject. For this tutorial, I would recommend creating a timeline about yourself or about Barnard - this is because you'll likely want to have easy access to  media relating to your story. However, feel free to choose any subject you're interested in! *The stories can be large or small in scope, and to make sure it has a strong chronological component, it should likely do at least one of the following three things:*
-
--   Show how something (a city, a religion, a type of art, your personal style, etc.) changes over time
--   Show how certain events (passing of laws, protests, construction of a new building,  earning a degree, etc.)  lead to later events
--   Highlight the pacing of events (the speed of a romance in a book, the long lead-up to a historical election, a sudden career switch, etc.)
-
 ### Plan Out Slides
 
 Start thinking about which slides to include. It's often good to start small and build out if it makes sense. A timeline with over 20 slides might be hard for people to navigate. Reflect on the story you want to tell, which events are necessary, what do you leave out? Once you have a list of 5-10, you can start to create your timeline. While you're listing out your events, pay attention to whether these events can be organized into groups or categories. This isn't necessary, but can be a useful way to provide more information.
