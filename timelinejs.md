@@ -128,6 +128,7 @@ In Step 1 of this tutorial, you should have created a copy of the TimelineJS spr
 
 The title slide is the only slide that doesn't require a date. It will be located on the *second row of your spreadsheet.* Each row that is not the title row will represent a new slide in your timeline. You can replace the text currently in the second row with your title and description under the Headline and Text columns. As a note, your title row does not *have* to be on the second row of the spreadsheet. As long as you have designated it as the title under the Type column, that slide will show up first.
 
+### Adding Media
 After you've added your title and description, you're ready to add media. Your media can be an image, video, social media post.  You can  view [a list of all media types TimelineJS accepts](https://timeline.knightlab.com/docs/media-types.html) on their website.
 If you read the [StoryMapJS Tutorial](), you may notice that there is no option to upload media. If your media cannot be found online, you will need to upload it to Dropbox or Google Drive and make sure the image is shared publicly. More information on embedding media can be found below.
 
