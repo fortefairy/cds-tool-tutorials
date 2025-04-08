@@ -70,23 +70,22 @@ Now, this may be hard to follow without looking at how this appears in the final
 
 #### *For Event Slides:*
 
-![Slide showing placement of components: media, display date, headline, text, credit, caption, date, era and group](/images/timelinejs/1-slideexamplefinal-timeline.png)
+![Slide showing placement of components: media, display date, headline, text, credit, caption, date, and group](/images/timelinejs/event-slide.png)
 
-**Story-Portion of Slide (Top, Labeled in Pink)**
+**Story-Portion of Slide (Top)**
 
--   **Media:** Image, video, audio, Tweet, or other type of media that helps tell your story.
--   **Display Date:** The date listed along with the story portion of your slide.  This is usually the same as the **date **on the bottom of the slide, but might be formatted differently or contain additional information.
+-   **Media:** Image, video, audio, Tweet, webpage, or other type of media that helps tell your story.
+-   **Display Date:** The date listed along with the story portion of your slide.  This can be same as the **date **on the bottom of the slide, but can also be formatted differently or contain additional information.
 -   **Headline:** The name of your slide. It will likely be the name of an event, though it can be anything that makes sense with your story! This appears again on the bottom-portion of the slide.
 -   **Text:** Additional text that helps tell your narrative.
 -   **Credit:** Space to provide credit and sourcing information for your media. This can include links as well as text.
--   **Caption:** Short text that describes your media. While not required, it's a good idea to use a caption, as it's helpful for screenreader users, those with slower internet connections , and in cases where your media may not load (for example, if your media is a Tweet that is later deleted by the Twitter user).
+-   **Caption:** Short text that describes your media. While not required, it's a good idea to use a caption, as it's helpful for screenreader users, those with slower internet connections, and in cases where your media may not load.
 
-**Timeline Portion of Slide (Bottom, Labeled in Green)**
+**Timeline Portion of Slide (Bottom)**
 
 -   **Date:** This is when the event in your slide takes place. It can be very specific (a single day) or broader (a span of years).
 -   **Headline:** This will be the same headline from the top-portion of the slide
--   **Eras:** These are a way of dividing your TimelineJS into chronological sections. They will be represented visually on the timeline with a colorful bar and title.  For example, the Greek Games Timeline has two eras: "Original Games" and the "Revived Games."
--   **Group:** Groups are a way of tagging related events, letting you showcase similar event subjects or types from anywhere in your chronology. Events in the same group appear on the timeline within the same horizontal row. In the Greek Games example, the group "hoop rolling" contains a slide about hoop rolling from the 1930s, as well as one from 2011.
+-   **Group:** Groups are a way of tagging related events, letting you showcase similar event subjects or types from anywhere in your chronology. Events in the same group appear on the timeline within the same horizontal row. In the Fandom History example, slides are grouped into media types.
 
 Except for the date, all of these components are optional. So, you can pick and choose what makes the most sense for your slide. While including all of these components can help you tell a more complete, media-rich, narrative, there may be times where certain components don't make sense for the story you're telling.
 
@@ -94,12 +93,19 @@ Except for the date, all of these components are optional. So, you can pick and 
 
 The title slide can contain all of the same components as the event slides. However, it is not tied to any specific event or period of time:
 
-![Title slide for A Photographic History of Barnard Greek Games](/images/timelinejs/2-timeline.png)
+![Title slide for History of Fandom](/images/timelinejs/title-slide.png)
 
-Planning Your Timeline
-----------------------
+## Step 2: Planning Your Timeline
 
 It is helpful to outline your content *before* making your Timeline. Outlining ensures you have a strong, chronological story to tell that won't get lost in the technical weeds when you start making your timeline.
+
+### Pick a Subject
+
+Start by picking a subject for your timeline. Make sure to choose a subject that has a strong chronological component. Remember, visualization creates a narrative, so your timeline will likely do at least one of the following things:
+
+- Show how something (a city, an art form, a movement, etc.) changes over time
+- Show how specific events (social movements, passing of laws, earning a degree) lead to later events
+- Highlight the pacing of events (the speed of a romance in a book, the long lead-up to a historical election, a sudden career switch, etc.)
 
 ### Step 1 - Pick a Subject
 
@@ -109,67 +115,29 @@ Start by picking your subject. For this tutorial, I would recommend creating a t
 -   Show how certain events (passing of laws, protests, construction of a new building,  earning a degree, etc.)  lead to later events
 -   Highlight the pacing of events (the speed of a romance in a book, the long lead-up to a historical election, a sudden career switch, etc.)
 
-### Step 2 - Decide on Events
+### Plan Out Slides
 
-Write down the events you'd like to include in your timeline (aim for about 5). Then, place them in chronological order.
+Start thinking about which slides to include. It's often good to start small and build out if it makes sense. A timeline with over 20 slides might be hard for people to navigate. Reflect on the story you want to tell, which events are necessary, what do you leave out? Once you have a list of 5-10, you can start to create your timeline. While you're listing out your events, pay attention to whether these events can be organized into groups or categories. This isn't necessary, but can be a useful way to provide more information.
 
-### Step 3 - Look for Groups and Eras
+You may also want to start thinking more about your content: What would you like to say in your description of each one? What media (photo, video, etc.) will you show for each one? It's useful to think about your content before you start making your TimelineJS.
 
-Take a look at your list of events. Are there longer periods of time that would make sense to showcase in your TimelineJS as eras, or certain topics you want to highlight on your Timeline JS groups? If so, mark those down. It's also completely fine if you don't have any eras or groups, particularly since we're keeping our Timelines on the shorter side.
-
-### Step 4 - Review
-
-Take a moment to review your work. Does it have a strong start and end date?  You may also want to start thinking more about your content: What would you like to say in your description of each one? What media (photo, video, etc.) will you show for each one? It's useful to think about your content before you start making your TimelineJS.
-
-Making TimelineJS Slides
-------------------------
+## Step 3: Create Your Timeline
 
 It's time to start using the TimelineJS tool! This [tutorial](https://youtu.be/Mu8NyRk_ja4), by EdTechTeacher, gives a nice overview of how to use TimelineJS. If you're new to TimelineJS, I'd recommend watching it before we go through the steps together.
 
-### Step 1 - Getting Started
+### Return to Your Spreadsheet
 
-We'll be using Google accounts to create our TimelineJS. **Unfortunately, gBear accounts do not work with TimelineJS. So, please login to Google with a personal account (other another  Google account that lets you share items publicly.)**
-
-To start your TimelineJS, please go to [http://timeline.knightlab.com/.](http://timeline.knightlab.com/). Click the big green button that says "Make a Timeline."
-
-### Step 2 - Copying the Spreadsheet
-
-For TimelineJS to work, you need to organize your content in a Google sheet. Luckily, there's a template for us to copy and edit. Click "[Get the Spreadsheet Template](https://docs.google.com/spreadsheets/u/1/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/copy)," and confirm that you want to make a copy. Make sure you're making a copy to your personal (or other non-gBear)  account.  The spreadsheet should look something like this:
-
-![spreadsheet with example copy filled in](/images/timelinejs/3-timeline.png)
-
-Before we continue, change the name of the spreadsheet to something more memorable. There's currently sample content in the spreadsheet, and soon we'll be changing it to our own content. First, however, there are a couple of things to know about working with the spreadsheet:
+In Step 1 of this tutorial, you should have created a copy of the TimelineJS spreadsheet. If you haven't done that, go ahead and do that now. Once you've copied the spreadsheet, the first thing you'll want to do is change the name of your spreadsheet, that way, it will be easier to find later. There's currently sample content in the spreadsheet, and soon we'll be changing it to our own content. First, however, there are a couple of things to know about working with the spreadsheet:
 
 -   Do not change the headers in Row 1; these are key for turning your spreadsheet into a Timeline
 -   Do not leave rows empty, as this will cause your timeline to break. It's fine to have some blank rows at the end - but make sure you don't skip any rows between your content!
 
-### Step 3 - Making a Title Slide
+### Add Your Title Slide
 
-Let's make your first slide. **Each row represents one slide.** We're going to walk through how to fill out the rows in detail because the spreadsheet isn't a format everyone is used to working with for a timeline - feel free to skim if you find it intuitive!
+The title slide is the only slide that doesn't require a date. It will be located on the *second row of your spreadsheet.* Each row that is not the title row will represent a new slide in your timeline. You can replace the text currently in the second row with your title and description under the Headline and Text columns. As a note, your title row does not *have* to be on the second row of the spreadsheet. As long as you have designated it as the title under the Type column, that slide will show up first.
 
-Take a look at the second row in the spreadsheet (the first one below the headers). Under the "type" column, it's labeled "title." This means this will be your first slide. Note that the order of your slides in your final timeline does not depend on the order of your rows. *The "title" will always be first, even if it is listed last. And the rest of the slides will always be listed in chronological order.*
-
-Let's take a deeper look at this row, from left to right.
-
-![Four groups of cells: date, text, media and additional](/images/timelinejs/4-row-example.png)
-
--   **Date cells:** The first group of cells ask for start, end, and display dates. Because this is the title slide, these cells have been left blank. We'll leave them that way.
-
-<p align="center">
- <img align="center" width="70%" src="/images/timelinejs/5-timeline.png" alt="Date cells with labels">
-</p>
-
--   **Text cells:** These are simple, just **replace the sample "headline" and "text" cells with your own copy.**
-
-<p align="center">
- <img align="center" width="70%" src="/images/timelinejs/6-timeline.png" alt="headline and text cells with content about Barnard Greek games">
-</p>
-
--   **Media cells:** These cells refer to the media - image, video, Twitter post, etc. on your slide.  You can  view [a list of all media types TimelineJS accepts.](https://timeline.knightlab.com/docs/media-types.html)
-
-<p align="center">
- <img align="center" width="70%" src="/images/timelinejs/7-timeline.png" alt="Sample media cells">
-</p>
+After you've added your title and description, you're ready to add media. Your media can be an image, video, social media post.  You can  view [a list of all media types TimelineJS accepts.](https://timeline.knightlab.com/docs/media-types.html) on their website.
+If you read the [StoryMapJS Tutorial](), you may notice that there is no option to upload media. If your media cannot be found online, you will need to 
 
 **Delete their sample media and add your own.** *As you add your media, keep the following tips in mind:*
 -   Your media must already be hosted somewhere on the internet; you cannot upload an image or video through TimelineJS.
