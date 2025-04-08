@@ -132,15 +132,11 @@ The title slide is the only slide that doesn't require a date. It will be locate
 After you've added your title and description, you're ready to add media. Your media can be an image, video, social media post.  You can  view [a list of all media types TimelineJS accepts](https://timeline.knightlab.com/docs/media-types.html) on their website.
 If you read the [StoryMapJS Tutorial](), you may notice that there is no option to upload media. If your media cannot be found online, you will need to upload it to Dropbox or Google Drive and make sure the image is shared publicly. More information on embedding media can be found below.
 
--   There are some media platforms - such as [flickr](https://www.flickr.com/), [imgur](https://imgur.com/), [YouTube](https://youtube.com/), and [Vimeo](https://www.vimeo.com/)- that integrate easily with TimelineJS. If you're using one of these platforms, you can simply enter the web URL for your media. *Example:* [https://www.flickr.com/photos/barnardcollege/38058641542/in/album-72157687854677831/ ](https://www.flickr.com/photos/barnardcollege/38058641542/in/album-72157687854677831/)
+-   There are some media platforms - such as [flickr](https://www.flickr.com/), [imgur](https://imgur.com/), [YouTube](https://youtube.com/), and [Vimeo](https://www.vimeo.com/)- that integrate easily with TimelineJS. If you're using one of these platforms, you can simply enter the web URL for your media.
 -   If you're using media hosted somewhere that doesn't automatically integrate with TimelineJS  (Dropbox, a museum collection, a personal website etc.) make sure that you are linking to the image  itself, not the page where it lives. **This is one of the most common mistakes with TimelineJS.** **Your URL should have a media extension in it, such as .jpg, .png, .gif, .mp4, or .wav.**
     - *Incorrect Link*: [https://www.metmuseum.org/art/collection/search/49186](https://www.metmuseum.org/art/collection/search/49186)
     - *Correct Link*: [https://images.metmuseum.org/CRDImages/as/original/DP205729_CRD.jpg](https://images.metmuseum.org/CRDImages/as/original/DP205729_CRD.jpg)
 -   The media thumbnail cell is usually best left blank; it lets you add tiny images to your timeline but can be tricky to use.
-
-  ***Additional Cells:** The last three cells give additional options for customization. We've already added the "type" information, and the "group" cell is only relevant for events slides. The background cell lets you change your slides background - you can use an image file, a [CSS color name](https://www.w3schools.com/cssref/css_colors.asp), or a [hex code](https://www.hexcolortool.com/).
-
-<img src="/images/timelinejs/8-timeline.png" width="20%" alt="title, group and background cells">
 
 You've finished your title slide! Now, let's move on to an event slide.
 
@@ -192,7 +188,9 @@ Now that you know how to make event slides, you can **complete the rest of the s
 Once you've finished making your slides, you can add eras to your TimelineJS. If you don't have any eras you want to add, you can skip to Publishing & Previewing Your Timeline.
 
 ### Step 5 - Adding Eras (optional)
+  ***Additional Cells:** The last three cells give additional options for customization. We've already added the "type" information, and the "group" cell is only relevant for events slides. The background cell lets you change your slides background - you can use an image file, a [CSS color name](https://www.w3schools.com/cssref/css_colors.asp), or a [hex code](https://www.hexcolortool.com/).
 
+<img src="/images/timelinejs/8-timeline.png" width="20%" alt="title, group and background cells">
 As a reminder, eras are colored bars representing spans of time across the bottom of your Timeline, like in this example:
 
 ![eras on bottom of timeline slide](/images/timelinejs/14-timeline.png)
