@@ -56,6 +56,7 @@ TimelineJS uses a formatted Google spreadsheet as a back-end. In order to create
 5. You now have the TimelineJS template. You can rename it to whatever you want, but don't change any of the column headers
 
 Once you have the spreadsheet copied, you'll notice that there are a number of columns. These are all associated with components of your timeline. Below is a description of the different sections of the spreadsheet:
+![first few lines of TimelineJS excel sheet](images/timelinejs/history-of-fandom-spreadsheet.PNG)
 
 **TimelineJS Spreadsheet**
 
