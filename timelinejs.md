@@ -56,7 +56,6 @@ TimelineJS uses a formatted Google spreadsheet as a back-end. In order to create
 5. You now have the TimelineJS template. You can rename it to whatever you want, but don't change any of the column headers
 
 Once you have the spreadsheet copied, you'll notice that there are a number of columns. These are all associated with components of your timeline. Below is a description of the different sections of the spreadsheet:
-![first few lines of TimelineJS excel sheet](/images/timelinejs/history-of-fandom-spreadsheet.PNG)
 
 **TimelineJS Spreadsheet**
 
@@ -67,7 +66,7 @@ Once you have the spreadsheet copied, you'll notice that there are a number of c
 -   **Media (Media, Media Caption, Media Credit, and Media Thumbnail):** This is where you will embed media, give proper attribution, and describe your media.
 -   **Additional Information (Type, Group, and Bacground):** This is where you can designate which slide is your title slide (there can only be one), if your slide belongs to a group, and the background color or image of a slide. 
 
-Now, this may be hard to follow without looking at how this appears in the final product. A TimelineJS is a lot like a slideshow: Each TimelineJS includes a title slide and  several event slides, with a dated  timeline running along the bottom of the slides.  The slides themselves are fairly structured, so it's useful to understand the components before building your timeline. To understand the components, we'll take a look at a [Photographic History of Barnard's Greek Games.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JUEDu68qzv2STUsHIb7fpCA6UT49l54_0VoT7sfq-IU&font=Default&lang=en&initial_zoom=2&height=650)
+Now, this may be hard to follow without looking at how this appears in the final product. A TimelineJS is a lot like a slideshow: Each TimelineJS includes a title slide and  several event slides, with a dated  timeline running along the bottom of the slides.  The slides themselves are fairly structured, so it's useful to understand the components before building your timeline. To understand the components, we'll take a look at a sample timeline [about the history of fandom.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VPzv3vH-_xlp-DzCLjNCHDA7KljrtOTmBhFmeas4fn8&font=Default&lang=en&initial_zoom=2&height=650)
 
 #### *For Event Slides:*
 
