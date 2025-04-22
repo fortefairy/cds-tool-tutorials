@@ -243,7 +243,7 @@ Students and other collaborators  must first register with Scalar in order to be
 1. Go to the dashboard (the wrench icon :wrench:).
 2. Select the "Book users" tab.
 3. At the bottom left of the screen, select the "Add a user" button. 
-4. When the pop up appears, you can search for a user's full name in Scalar's database. Feel free to search for "Alicia Peaker" or "Ana Lam" from the DHC and add us to your book!
+4. When the pop up appears, you can search for a user's full name in Scalar's database.
 
 ### Publish your book
 
